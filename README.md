@@ -4,5 +4,3 @@
 
 Логин: admin
 Пароль: admin
-
-www.ilya-abramov.ru/admin
